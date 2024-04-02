@@ -1,4 +1,4 @@
-package com.kaushalvasava.app.composeui.ui.theme
+package `in`.eduforyou.shopapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.kaushalvasava.app.composeui.ui.theme
+package `in`.eduforyou.shopapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
